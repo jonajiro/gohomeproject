@@ -1,0 +1,4 @@
+[JAPANESE]
+TITLE=twe_chip_v004
+DESC=搭載通信機用。MONOStickから取得した情報と搭載mpuから取得した情報に基づいて機体状態の判断とパラシュート展開を実施する。
+URL=

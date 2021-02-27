@@ -1,0 +1,5 @@
+C:/workspace/001_GoHome/004_program/twelite/twe_chip_v006/twe_chip_v006.cpp: In function 'void timer_1()':
+C:/workspace/001_GoHome/004_program/twelite/twe_chip_v006/twe_chip_v006.cpp:143:36: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:/workspace/001_GoHome/004_program/twelite/twe_chip_v006/twe_chip_v006.cpp:148:36: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:/workspace/001_GoHome/004_program/twelite/twe_chip_v006/twe_chip_v006.cpp: In function 'void read_data_frommpu()':
+C:/workspace/001_GoHome/004_program/twelite/twe_chip_v006/twe_chip_v006.cpp:695:11: warning: unused variable 'n' [-Wunused-variable]

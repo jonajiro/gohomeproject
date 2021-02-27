@@ -1,0 +1,4 @@
+[JAPANESE]
+TITLE=twe_mono_v004
+DESC=PC通信機用。搭載通信機から受信した情報をPCに通知し、PCから取得した情報を搭載通信機に送信する。
+URL=
